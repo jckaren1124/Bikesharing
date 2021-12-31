@@ -4,7 +4,7 @@
 CitiBike is a successful bikesharing business that allows users to rent bicycles on a short-term basis as a mode of transportation to their next destination. Bikesharing data in New York City from August 2019 was obtained for analysis to determine if this bikeshare program would be effective in Des Moines, Iowa.
 
 ## Results
-Based on our analysis from worksheet "Checkout Times by User," it appears that the maximum amount of time users occupy a bike is five minutes at a time. Majority of customers rent the bike within a 30 minute period, and a sharp bike return rate after five minutes. According to worksheet "Checkout Times by Gender," both male and female users generally have the same rental pattern of peaking at around five to six minutes while users of unknown gender plateau at seven to twenty-five minutes. It can also be seen that male users represent the majority of all customers in the bikesharing data. 
+Based on our analysis from worksheet "Checkout Times by User," it appears that the maximum amount of time users occupy a bike is five minutes at a time. Majority of customers rent the bike within a 30 minute period. According to worksheet "Checkout Times by Gender," both male and female users generally have the same rental pattern of peaking at around five to six minutes while users of unknown gender plateau at seven to twenty-five minutes. It can also be seen that male users represent the majority of all customers in the bikesharing data. 
 
 ![image](https://user-images.githubusercontent.com/89353378/147806119-7480a8c2-6da5-4745-aeae-de2ece187f63.png)
 
@@ -27,5 +27,5 @@ The image for worksheet "Trips by Weekday per Hour" shows that the most popular 
 
 ## Summary
 
-Results from the first two worksheets indicate that most customers will utilize bikesharing when they have a relatively short destination to reach, so this business might work best in a more densely populated city. Based on the information from most popular/busiest bikesharing timeframes, we can probably deduce that the major customer base would be local residents who commute to work on the weekdays and visitors/residents who promote economic growth on the weekends. Analysis of customer type breakdown clearly demonstrates that most users plan to utilize bikeshare on a regular basis, which will generate long-term revenue.
+Results from the first two worksheets indicate that most customers will utilize bikesharing when they have a relatively short destination to reach, so this business might work best in a more densely populated city. Based on the information from most popular/busiest bikesharing timeframes, we can probably deduce that the major customer base would be local residents who commute to work on the weekdays and visitors/residents who shop and consume on the weekends. Analysis of customer type breakdown clearly demonstrates that most users plan to utilize bikeshare on a regular basis, which will generate long-term revenue. Overall, bikesharing can be a successful business if Des Moines has a similar demographic as New York City.
 
